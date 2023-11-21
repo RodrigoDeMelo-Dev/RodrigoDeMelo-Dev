@@ -7,7 +7,6 @@ Estudante de Desenvolvimento de Software Multiplataforma na Fatec Araras.
 
 ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoDeMelo-Dev&show_icons=true&theme=onedark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoDeMelo-Dev&hide_progress=true)
 
 ### Visitantes 👁️ 👁️  
   <img alingn="center" src="https://profile-counter.glitch.me/RodrigoDeMelo-Dev/count.svg" />
